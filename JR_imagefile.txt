@@ -1,0 +1,28 @@
+b1.png
+coin3.png
+heart.png
+block.png
+stone2.png
+box1.png
+RAVIE.ttf
+10  
+880 10
+880 50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

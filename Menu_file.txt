@@ -1,0 +1,6 @@
+firstWindow.jpg
+welcome.jpg
+new.png 650 227
+highscore.png 650 300
+exit.png 650 446
+intro.png 650 373
